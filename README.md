@@ -1,7 +1,7 @@
-#### About Me ..✈
-<a href="https://discreet-antler-e8e.notion.site/5fb40d87757b41a6aba3797a20c46f30">
-    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
-</a>
+#### About Me
+[![Notion Portfolio](https://img.shields.io/badge/Portfolio-Notion-e2e1d4?style=flat-square&logo=notion&logoColor=white)](https://discreet-antler-e8e.notion.site/5fb40d87757b41a6aba3797a20c46f30)
+
+
 
 #### Skills
 <p align="left">
