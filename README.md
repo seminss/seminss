@@ -2,6 +2,13 @@
 [![Notion Portfolio](https://img.shields.io/badge/Portfolio-Notion-e2e1d4?style=flat-square&logo=notion&logoColor=white)](https://discreet-antler-e8e.notion.site/5fb40d87757b41a6aba3797a20c46f30)
 -->
 
+Hi, I'm Semin Kim. 
+
+I specialize in backend development.
+
+Here’s my [Portfolio](https://drive.google.com/file/d/1qL3CxfuQU1ODaFeiSKuYdl0HC0iZmOOJ/view?usp=sharing) 💻
+
+---
 
 #### Skills
 <p align="left">
@@ -15,11 +22,6 @@
 </p>
 
 
-
 #### Algorithm
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=2007ksm)](https://solved.ac/2007ksm)
-
-
-
-
+#### [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=2007ksm)](https://solved.ac/2007ksm)
 
