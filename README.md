@@ -6,7 +6,8 @@ Hi, I'm Semin Kim.
 
 I specialize in backend development.
 
-Here’s my [Portfolio](https://drive.google.com/file/d/1qL3CxfuQU1ODaFeiSKuYdl0HC0iZmOOJ/view?usp=sharing) 💻
+Here’s my [Record](https://my.surfit.io/w/1574072383) 
+and [Portfolio](https://drive.google.com/file/d/1qL3CxfuQU1ODaFeiSKuYdl0HC0iZmOOJ/view?usp=sharing) 💻
 
 ---
 
