@@ -6,7 +6,7 @@ Hi, I'm Semin Kim.
 
 I specialize in backend development.
 
-Here’s my [Record](https://my.surfit.io/w/1574072383) 💻
+Here’s my [CV](https://my.surfit.io/w/1574072383) 💻
 
 ---
 
